@@ -1,4 +1,4 @@
-# Multimedia-Compression
+# Lossless-Image-Compression
 This repo performs some lossless algorithms.
 List files:
   1. ShannonFano.py: encode and decode pictures with .bmp and .tuff format (24-bit color)  
