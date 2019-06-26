@@ -18,5 +18,7 @@ List images:
   
 Refer:
 Book: Ze-Nian Li, Mark S.Drew, Jiangchuan Liu – Fundamentals of Multimedia (Second Edition)
+
 https://www.devdungeon.com/content/working-binary-data-python
+
 http://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
