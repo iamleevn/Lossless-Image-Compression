@@ -9,6 +9,12 @@ List files:
   4. Athmetic.py: encode and decode a very short random list of number. 
   5. demo.py: used to run all algorithm. 
   
+List images:
+  messi.bmp
+  marbles.bmp
+  lethina.tiff
+  XING_T24.TIF
+  BLK.bmp
   
 Refer:
 Book: Ze-Nian Li, Mark S.Drew, Jiangchuan Liu – Fundamentals of Multimedia (Second Edition)
