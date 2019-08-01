@@ -1,7 +1,7 @@
 # Lossless-Image-Compression
 This repo performs some lossless algorithms.
 
-## Requirements:
+## Tools:
  * Python 3.7
  * OpenCV 4.1.0.25
  * Numpy 1.16.3
